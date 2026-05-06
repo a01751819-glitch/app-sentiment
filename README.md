@@ -16,6 +16,5 @@ This project uses Qwen2-0.5B to analyze the sentiment of SEC files.
 - Gradio
 - Qwen2-0.5B
 
-## App Screenshot
-
-![App Screenshot](Foto app.jpeg)
+##App
+https://2f271958befadfac79.gradio.live/
